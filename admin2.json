@@ -9,6 +9,11 @@
       "hardware_id": "ANOTHER_DEVICE_HARDWARE_ID",
       "license_key": "SPACE-X-KEY-67890",
       "expire_date": "2026-08-15 18:00:00"
+    },
+    {
+      "hardware_id": "TTAK-C062-B58A-B57F",
+      "license_key": "TTAK-KEY-1001",
+      "expire_date": "2026-08-25 23:59:59"
     }
   ]
 }
