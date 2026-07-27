@@ -19,6 +19,11 @@
       "hardware_id": "TTAK-D64A-4AB7-D885",
       "license_key": "TTAK-KEY-1002",
       "expire_date": "2026-08-25 23:59:59"
+    },
+    {
+      "hardware_id": "TTAK-C062-B58A-B57F",
+      "license_key": "TTAK-KEY-1004",
+      "expire_date": "2026-08-26 23:59:59"
     }
   ]
 }
