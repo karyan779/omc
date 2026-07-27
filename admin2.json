@@ -54,6 +54,11 @@
       "hardware_id": "FHGCFGG",
       "license_key": "TTAK-KEY-2001",
       "expire_date": "2026-07-27 07:13:07"
+    },
+    {
+      "hardware_id": "TTAK-61B7-CCC7-C71E",
+      "license_key": "TTAK-KEY-2002",
+      "expire_date": "2026-08-26 23:59:59"
     }
   ]
 }
