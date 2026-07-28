@@ -84,6 +84,11 @@
       "hardware_id": "TTAK-5625-6394-4787",
       "license_key": "TTAK-KEY-2006",
       "expire_date": "2026-08-04 23:59:59"
+    },
+    {
+      "hardware_id": "TTAK-7DE7-942D-95A6",
+      "license_key": "TTAK-KEY-2007",
+      "expire_date": "2026-08-27 23:59:59"
     }
   ]
 }
