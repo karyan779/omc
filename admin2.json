@@ -149,6 +149,11 @@
       "hardware_id": "TTAK-816E-D80D-2191",
       "license_key": "TTAK-KEY-2020",
       "expire_date": "2026-09-03 23:59:59"
+    },
+    {
+      "hardware_id": "TTAK-CE0D-1AFC-8520",
+      "license_key": "TTAK-KEY-2021",
+      "expire_date": "2026-09-03 23:59:59"
     }
   ]
 }
