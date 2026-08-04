@@ -154,6 +154,11 @@
       "hardware_id": "TTAK-619F-CF6C-A792",
       "license_key": "TTAK-KEY-2022",
       "expire_date": "2026-09-03 23:59:59"
+    },
+    {
+      "hardware_id": "TTAK-7DAC-CE69-0E1C",
+      "license_key": "TTAK-KEY-2023",
+      "expire_date": "2026-09-03 23:59:59"
     }
   ]
 }
